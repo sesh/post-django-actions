@@ -1,0 +1,3 @@
+[submodule "up"]
+	path = up
+	url = git@github.com:sesh/django-up.git
